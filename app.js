@@ -6,5 +6,5 @@ document.querySelectorAll('.weight-tabs button').forEach(btn=>btn.addEventListen
   btn.classList.add('active'); preview.style.fontWeight=btn.dataset.weight;
 }));
 document.querySelector('[data-buy="commercial"]').addEventListener('click',()=>{
-  alert('ต้นแบบหน้าเว็บพร้อมแล้ว — ขั้นถัดไปเชื่อมระบบชำระเงินจริงและดาวน์โหลดไฟล์อัตโนมัติ');
+  window.location.assign('https://buy.stripe.com/9B68wPeuT5lUcDaaJCdIA00');
 });
