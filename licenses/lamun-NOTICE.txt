@@ -1,0 +1,19 @@
+SIAMTYPE Lamun / สยามไทป์ ละมุน — version 0.200, 2026-09-09
+
+This is a modified version, NOT an original Droid or Google font release.
+Upstream: Droid Sans Thai (Monotype) and Droid Sans (Steve Matteson).
+Digitized data copyright Google Corporation © 2009, 2011 (Thai).
+Digitized data copyright © 2007, Google Corporation (Latin).
+Licensed under the Apache License, Version 2.0 (included).
+
+Sources: https://github.com/google/fonts/tree/5fb32282c5969930c4268483ffa5664680bf73c8/apache/droidsansthai
+https://github.com/google/fonts/tree/5fb32282c5969930c4268483ffa5664680bf73c8/apache/droidsans
+
+Changes for SIAMTYPE: renamed family; slightly narrower/taller proportions;
+rebalanced Latin size; adjusted sidebearings; preserved and transformed Thai
+mark positioning; added 7.4-degree oblique variants; generated OTF and WOFF2.
+Modified files carry notices in font name IDs 0, 10, 13 and this file.
+No endorsement by Google, Monotype or original designers is implied.
+
+The included font derivatives are distributed under Apache-2.0.
+Charging for a prepared pack does not remove recipients' Apache-2.0 rights.
